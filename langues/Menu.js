@@ -11,7 +11,7 @@ export default {
     contact: 'Contact',
   },
   en: {
-    title: 'Watchtower',
+    title: 'Observatory',
     home: 'Home',
     portal: 'Theme portals',
     random: 'Random article',
