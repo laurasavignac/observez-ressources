@@ -6,7 +6,7 @@ export default {
     home: 'Accueil',
     portal: 'Portail thématique',
     random: 'Article au hasard',
-    me: 'Mon espace',
+    me: 'Mon compte',
     about: 'À propos',
     contact: 'Contact',
   },
@@ -20,7 +20,13 @@ export default {
     contact: 'Contact',
   },
   es: {
-
+    title: 'Observatorio',
+    home: 'Home',
+    portal: 'Theme portals',
+    random: 'Random article',
+    me: 'My account',
+    about: 'About',
+    contact: 'Contact',
   },
   de: {
 
