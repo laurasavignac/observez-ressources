@@ -6,7 +6,7 @@ export default {
     code: `j'écris son code ici`,
   },
   en: {
-    sticker: `I've encountered a f**** sticker :`,
+    sticker: `I've encountered a sticker :`,
     code: `type its code into this field`,
   },
   es: {
