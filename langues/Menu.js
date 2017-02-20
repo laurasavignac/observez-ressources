@@ -9,6 +9,9 @@ export default {
     me: 'Mon compte',
     about: 'À propos',
     contact: 'Contact',
+    create: 'Ajouter un article',
+    logout: 'Me déconnecter',
+    login: 'Me connecter',
   },
   en: {
     title: 'Observatory',
@@ -18,6 +21,9 @@ export default {
     me: 'My account',
     about: 'About',
     contact: 'Contact',
+    create: 'Create an article',
+    logout: 'Logout',
+    login: 'Login',
   },
   es: {
     title: 'Observatorio',

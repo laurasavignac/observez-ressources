@@ -6,7 +6,7 @@ export default {
     more: `chicken soup sriracha bo bûn`,
   },
   en: {
-    description: `is a collaborative tool of our streets visual state`,
+    description: `is a collaborative observatory about our streets visual state`,
     more: `ramen noodles`,
   },
   es: {
