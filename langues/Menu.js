@@ -2,6 +2,7 @@
 
 export default {
   fr: {
+    hello: 'Bonjour',
     title: 'Observatoire',
     home: 'Accueil',
     portal: 'Portail thématique',
@@ -14,6 +15,7 @@ export default {
     login: 'Me connecter',
   },
   en: {
+    hello: 'Hello',
     title: 'Observatory',
     home: 'Home',
     portal: 'Theme portals',
@@ -26,6 +28,7 @@ export default {
     login: 'Login',
   },
   es: {
+    hello: 'Ola',
     title: 'Observatorio',
     home: 'Home',
     portal: 'Theme portals',

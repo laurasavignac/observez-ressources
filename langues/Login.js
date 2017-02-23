@@ -6,8 +6,8 @@
 export default {
   fr: {
     title: `Connectez-vous :)`,
-    mail: `mail`,
-    pass: `mot de passe`,
+    name: `nom ou pseudo`,
+    password: `mot de passe`,
     login: `se connecter`,
     toRegister: `je n'ai pas encore de compte`,
     toForgot: `j'ai oublié mon mot de passe`,
@@ -15,8 +15,8 @@ export default {
   },
   en: {
     title: `Log yourself in :)`,
-    mail: `mail`,
-    pass: `password`,
+    name: `name or nickname`,
+    password: `password`,
     login: `login`,
     toRegister: `I don't have an account`,
     toForgot: `I forgot my password`,
