@@ -2,17 +2,11 @@
 
 export default {
   fr: {
-    description: `est un observatoire collaboratif de l'état visuel de nos rues.`,
-    more: `chicken soup sriracha bo bûn`,
+    title: 'Vigilance visuelle',
+    description: `Observatoire contributif de veille des contenus visuels dans l'espace public.`,
   },
   en: {
+    title: 'Visual vigilance',
     description: `is a collaborative observatory about our streets visual state`,
-    more: `ramen noodles`,
-  },
-  es: {
-
-  },
-  de: {
-
   },
 };
