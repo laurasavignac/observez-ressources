@@ -7,6 +7,6 @@ export default {
   },
   en: {
     title: 'Visual vigilance',
-    description: `is a collaborative observatory about our streets visual state`,
+    description: `Contributive observatory to encourage awareness of visual content in the public space.`,
   },
 };

@@ -11,7 +11,7 @@ export default {
     password: `mot de passe`,
     create: `créer mon compte`,
     toLogin: `j'ai déjà un compte`,
-    error: `il semble y avoir une erreur dans le formulaire`,
+    error: `il semble y avoir une erreur`,
   },
   en: {
     title: `Sign up`,
@@ -20,6 +20,6 @@ export default {
     password: `password`,
     create: `login`,
     toLogin: `I already have an account`,
-    error: `it seems there's an error in the form`,
+    error: `it seems there's an error`,
   },
 };

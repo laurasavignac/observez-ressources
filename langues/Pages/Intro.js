@@ -12,8 +12,8 @@ export default {
     send: 'envoyer',
   },
   en: {
-    sticker: `I've encountered a f**** sticker :`,
-    new: `Create a new entry :`,
+    sticker: `I've encountered a sticker :`,
+    new: `Create a new file :`,
     ref: 'code',
     city: 'city',
     street: 'street',

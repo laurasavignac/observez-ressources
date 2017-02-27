@@ -2,11 +2,11 @@
 
 export default {
   fr: {
-    createNewArticle: `Créer un nouvel article`,
-    todaysArticle: `L'article du jour`,
+    createNewArticle: `Créer une nouvelle fiche`,
+    todaysArticle: `Fiche du jour`,
   },
   en: {
-    createNewArticle: `new article`,
-    todaysArticle: `Today's article`,
+    createNewArticle: `Create a new file`,
+    todaysArticle: `Today's file`,
   },
 };

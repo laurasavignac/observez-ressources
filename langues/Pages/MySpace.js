@@ -12,8 +12,8 @@ export default {
   },
   en: {
     title: 'My personal space',
-    created: 'Items added',
-    edited: 'Items edited',
+    created: 'Created files',
+    edited: 'Edited files',
     params: 'Account settings',
   },
 };

@@ -2,9 +2,9 @@
 
 export default {
   fr: {
-    more: `Cet article reprend le contenu de l'article général :`,
+    more: `Cette fiche reprend le contenu de la fiche générale :`,
   },
   en: {
-    more: `This article is linked to this general article :`,
+    more: `This file is linked to the general file :`,
   },
 };

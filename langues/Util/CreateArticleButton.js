@@ -2,9 +2,9 @@
 
 export default {
   fr: {
-    createNewArticle: `ajouter un article`,
+    createNewArticle: `créer une fiche`,
   },
   en: {
-    createNewArticle: `create an article`,
+    createNewArticle: `create a file`,
   },
 };

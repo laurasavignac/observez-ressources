@@ -2,11 +2,11 @@
 
 export default {
   fr: {
-    contribute: `contribuer à cet article`,
+    contribute: `contribuer à cette fiche`,
     report: `signaler`,
   },
   en: {
-    contribute: `edit this article`,
+    contribute: `edit this file`,
     report: `report`,
   },
 };

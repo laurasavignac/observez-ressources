@@ -7,11 +7,11 @@ export default {
   fr: {
     title: `J'ai perdu mon mot de passe`,
     mail: `mail`,
-    error: `il semble y avoir une erreur dans le formulaire`,
+    error: `il semble y avoir une erreur`,
   },
   en: {
     title: `I lost my password`,
     mail: `mail`,
-    error: `it seems there's an error in the form`,
+    error: `it seems there's an error`,
   },
 };
